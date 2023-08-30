@@ -84,4 +84,22 @@ Após isso, basta começar a copiar o código dos alertas que queira e utilizar 
 
 ![Captura de tela 2023-08-29 220708](https://github.com/FalconTFagundes/links-importantes-para-programadores/assets/126299374/ecadf968-32bd-4fde-bc89-8612c28c22ba)
 
+##
+## :computer: DaFont
+```
+https://www.dafont.com/pt/
+```
+
+Este site possui várias fontes diversas para você utilizar no layout de seu projeto. Ele possui fontes de vários tipos e gostos, sem contar que é totalmente seguro.
+
+![Captura de tela 2023-08-30 194125](https://github.com/FalconTFagundes/links-importantes-para-programadores/assets/126299374/ad1473d5-2b30-4149-8326-e01e26910392)
+
+No menu superior do site, você pode selecionar as categorias das fontes que deseja.
+
+![Captura de tela 2023-08-30 195852](https://github.com/FalconTFagundes/links-importantes-para-programadores/assets/126299374/93114220-7848-4b05-87ee-fcd066e067bb)
+
+Após escolher a fonte que deseja, clique no botão "baixar" localizado na direita.
+
+![Captura de tela 2023-08-30 194600](https://github.com/FalconTFagundes/links-importantes-para-programadores/assets/126299374/325c4f88-b566-4ea1-877e-67ca7b9feb98)
+
 
