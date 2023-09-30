@@ -11,9 +11,16 @@
 ```
 https://pictogrammers.github.io/@mdi/font/5.0.45/
 ```
+## :computer: Copie a CDN e cole no head da sua página
+```
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@mdi/font@6.5.95/css/materialdesignicons.min.css">
+```
+
 Este site possui vários ícones customizados para se utilizar no layout de seu projeto.
 
 ![Captura de tela 2023-08-29 211138](https://github.com/FalconTFagundes/links-importantes-para-programadores/assets/126299374/39811015-6d51-46d4-9083-ff30b5132a3e)
+
+
 
 Para colocar qualquer ícone em seu projeto, deve-se primeiramente selecionar o ícone desejado e copiar o seu código que irá aparecer após a seleção, no campo "usage", que se encontra na parte superior do site:
 
