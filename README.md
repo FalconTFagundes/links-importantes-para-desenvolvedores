@@ -11,7 +11,7 @@
 ```
 https://pictogrammers.github.io/@mdi/font/5.0.45/
 ```
-## :computer: Copie a CDN e cole no head da sua página
+## :computer: Copie o link e cole no head da sua página
 ```
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@mdi/font@6.5.95/css/materialdesignicons.min.css">
 ```
